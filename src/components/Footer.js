@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className="col-lg-12 text-center">
                         <small className='text-secondary'>Last updated {formattedDate}</small>
                         <p></p>
-                        <small className='text-secondary'>Check out the code on <a href="https://github.com/yourusername/your-repo" target="_blank" rel="noopener noreferrer">GitHub</a></small>
+                        <small className='text-secondary'>Check out the code on <a href="https://github.com/borecky/poe-toolbox" target="_blank" rel="noopener noreferrer">GitHub</a></small>
                         <p>&copy; 2024 PanProkurator</p>
                     </div>
                 </div>
