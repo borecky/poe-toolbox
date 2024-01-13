@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/poe-toolbox/static/css/main.e8234d27.css",
+    "main.js": "/poe-toolbox/static/js/main.c5122594.js",
+    "static/js/787.e483fb5e.chunk.js": "/poe-toolbox/static/js/787.e483fb5e.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/poe-toolbox/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/poe-toolbox/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/poe-toolbox/index.html",
+    "main.e8234d27.css.map": "/poe-toolbox/static/css/main.e8234d27.css.map",
+    "main.c5122594.js.map": "/poe-toolbox/static/js/main.c5122594.js.map",
+    "787.e483fb5e.chunk.js.map": "/poe-toolbox/static/js/787.e483fb5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8234d27.css",
+    "static/js/main.c5122594.js"
+  ]
+}
