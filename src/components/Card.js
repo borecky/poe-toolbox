@@ -5,7 +5,7 @@ const Card = ({ id, title, description, short_desc, tags, image, url }) => (
         <div className='container-fluid full-height'>
             <div class="row text-light text-center">
                 <div class="col">
-                    <img src={image} alt={title} className="card-img" />
+                    <img src={process.env.PUBLIC_URL + image} alt={title} className="card-img" />
                     <div style={{height: '0.2em'}}/>
                     <h5><a href={url} target="_blank">{title}</a></h5>
                 </div>
