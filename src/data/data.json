@@ -1,0 +1,147 @@
+[
+    {
+        "id": "vorici_chromatic_calculator",
+        "title": "Chromatic Calculator",
+        "description": "Chromatic Orb cost calculator for re-roll the color of sockets on a weapon or piece of armour.",
+        "short_desc": "Chromatic Orb cost calculator for socket color rerolls",
+        "url": "https://siveran.github.io/calc.html",
+        "image": "/images/chrom_orb.png",
+        "tags": [
+            "crafting"
+        ]
+    },
+    {
+        "id": "path_of_regex",
+        "title": "Path of Regex",
+        "description": "A tool for generating vendor search strings. With no false positives matches and with query shortening, so you can fit more stuff in to your search!",
+        "short_desc": "Creates search strings with accurate matches and shortened queries for efficient searches",
+        "url": "https://poe.re/#/maps",
+        "image": "/images/maps_modifiers.png",
+        "tags": [
+            "loot",
+            "crafting",
+            "maps"
+        ]
+    },
+    {
+        "id": "filter_blade",
+        "title": "FilterBlade",
+        "description": "FilterBlade is a tool for customizing item filters in Path of Exile. It offers ready-made filters like Neversink's and allows users to add personal touches, including custom sounds.",
+        "short_desc": " Customize your PoE item filter with pre-made options",
+        "url": "https://www.filterblade.xyz/",
+        "image": "/images/filter_blade_logo.png",
+        "tags": [
+            "loot",
+            "addon",
+            "must-use"
+        ]
+    },
+    {
+        "id": "awakened_poe_trade",
+        "title": "Awakened PoE Trade",
+        "description": "Awakened Poe Trade is one of the most useful tools you could possibly use, it allows you to easily price check items in-game with the push of a buttons.",
+        "short_desc": "Price-check items in-game with a simple button press",
+        "url": "https://github.com/SnosMe/awakened-poe-trade",
+        "image": "/images/awakened_poe_trade.png",
+        "tags": [
+            "loot",
+            "trade",
+            "addon",
+            "must-use"
+        ]
+    },
+    {
+        "id": "official_poe_trade",
+        "title": "Offical PoE Trade",
+        "description": "This website allows you to search through items listed for sale in Shop Forums and those listed using Public Premium Stash Tabs in-game.",
+        "short_desc": "Search and trade items in Shop Forums and Public Premium Stash Tabs in-game",
+        "url": "https://www.pathofexile.com/trade/search/Affliction",
+        "image": "/images/poe_trade.png",
+        "tags": [
+            "trade",
+            "must-use"
+        ]
+    },
+    {
+        "id": "divcards",
+        "title": "Div Cards But Better",
+        "description": "A tool that helps you determine which divination cards can drop on a selected map or identify the maps where a desired divination card can be obtained.",
+        "short_desc": "Identify drops on a chosen map or find maps for specific cards",
+        "url": "https://divcards.io/",
+        "image": "/images/stacked_deck.png",
+        "tags": [
+            "loot",
+            "maps"
+        ]
+    },
+    {
+        "id": "craft_of_exile",
+        "title": "Craft of Exile",
+        "description": "Craft of Exile simplifies crafting in Path of Exile, offering a user-friendly online tool for efficient and cost-effective crafting without the need for installations or downloads. Access everything directly in your browser.",
+        "short_desc": "Browser-based tool for simplified, cost-effective crafting in PoE",
+        "url": "https://www.craftofexile.com/",
+        "image": "/images/vendor.png",
+        "tags": [
+            "crafting",
+            "maps"
+        ]
+    },
+    {
+        "id": "path_of_building",
+        "title": "Path of Buidling",
+        "description": "Path of Building is an open-source build planner for Path of Exile that lets you plan out your skill tree, gems and items. You can start a fresh build or import a Pastebin link from an existing build.",
+        "short_desc": "PoE build planner for skill, gem, and item planning, supporting fresh starts or Pastebin imports",
+        "url": "https://pathofbuilding.community/",
+        "image": "/images/pob.png",
+        "tags": [
+            "builds"
+        ]
+    },
+    {
+        "id": "hideouts",
+        "title": "Hideouts Showcase",
+        "description": "Prepared for importing Hideout designs",
+        "short_desc": "Prepared for importing Hideout designs",
+        "url": "https://hideoutshowcase.com/hideouts",
+        "image": "/images/hideout.png",
+        "tags": [
+            "addon"
+        ]
+    },
+    {
+        "id": "maxroll",
+        "title": "Maxroll.gg",
+        "description": "Comprehensive knowledge base for Path of Exile, featuring build guides, crafting tutorials, and more.",
+        "short_desc": "Your go-to hub for PoE build guides, crafting tips, and more",
+        "url": "https://maxroll.gg/poe/category/build-guides?filter[build_guide_type][taxonomy]=taxonomies.build_guide_type&filter[build_guide_type][value]=archive&filter[build_guide_type][operation]=!%3D",
+        "image": "/images/maxroll.png",
+        "tags": [
+            "builds",
+            "crafting",
+            "wiki"
+        ]
+    },
+    {
+        "id": "poe_wiki",
+        "title": "PoE Wiki",
+        "description": "Path of Exile wiki",
+        "short_desc": "Path of Exile wiki",
+        "url": "https://www.poewiki.net/wiki/Path_of_Exile_Wiki",
+        "image": "/images/poe_wiki.png",
+        "tags": [
+            "wiki"
+        ]
+    },
+    {
+        "id": "pobbin",
+        "title": "POBb.in",
+        "description": "Share your Path of Building builds online",
+        "short_desc": "Share your Path of Building builds online",
+        "url": "https://pobb.in/lND8MGKZ3_iL",
+        "image": "/images/pobbin.png",
+        "tags": [
+            "builds",
+            "must-use"
+        ]
+    }
+]

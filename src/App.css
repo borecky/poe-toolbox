@@ -1,0 +1,87 @@
+.logo-text {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0.5em;
+}
+
+.card {
+  background-color: #00000090;
+  padding: 8px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  height: 250px;
+  width: auto;
+}
+
+.full-height {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.form-control::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(147, 147, 147);
+  opacity: 1; /* Firefox */
+}
+
+.form-control:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: rgb(147, 147, 147);
+}
+
+.form-control::-ms-input-placeholder { /* Microsoft Edge */
+  color: rgb(147, 147, 147);
+}
+
+.card-img {
+  height: 48px;
+  width: auto;
+}
+
+.badge {
+  padding: 0.5em;
+}
+
+.tag {
+  margin: 0.3em;
+  padding: 0.5em;
+}
+
+i {
+  margin: 0.2em;
+}
+
+.card-tag {
+  margin: 0.1em;
+}
+
+.spacer {
+  height: 1em;
+}
+
+
+/* Footer.css */
+.sticky-footer {
+  padding: 20px;
+  bottom: 0;
+  width: 100%;
+  background-color: #0000001d;  /* Set your preferred background color */
+  padding: 1em;  /* Set padding */
+}
+
+.app-container {
+  min-height: 100vh;
+  text-align: center;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
