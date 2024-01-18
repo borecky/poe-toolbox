@@ -143,5 +143,17 @@
             "builds",
             "must-use"
         ]
+    },
+    {
+        "id": "poe_stack",
+        "title": "PoeStack",
+        "description": "Use PoeStack to organize and value your items effortlessly, discovering value in your stash with pricing data",
+        "short_desc": "Use PoeStack to organize and value your items effortlessly, discovering value in your stash with pricing data",
+        "url": "https://poestack.com/poe/stash-view?league=Affliction",
+        "image": "/images/poe_stack.png",
+        "tags": [
+            "loot",
+            "trade"
+        ]
     }
 ]
